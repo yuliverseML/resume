@@ -7,7 +7,7 @@
 - **Email:** yuliya_kononenko_78@mail.ru  
 - **Телефон:** +7 (921) 6280094  
 - **GitHub:** [yuliverseML](https://github.com/yuliverseML)  
-
+- **Telegram:** https://t.me/kononenko_yu
 ---
 
 ## 🎯 Профессиональный профиль
